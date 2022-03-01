@@ -7,7 +7,7 @@ and state holidays, seasonality, and locality as necessary for predicting the sa
 stores. The task is to build and serve an end-to-end product that delivers this prediction to analysts in 
 the finance team.
 
-Data exploration
+   Data exploration
 
 Date Exploration is demonstrated notebooks/data_exploration.ipynb
 
@@ -17,7 +17,7 @@ Daily, yearly, monthly sale trends are analysed
 
 Sesionality of sales are analyzed
 
-Multi variable sales prediction 
+   Multi variable sales prediction 
 
 A machine learning approach to implement multi variable sales prediction implemented.
 
